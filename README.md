@@ -1,4 +1,4 @@
 lpoints_style
 =============
 
-Blog custom styling
+Custom changes to WordPress 2014 theme template.
